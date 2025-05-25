@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-check demo code
 import { test, expect } from '@playwright/test';
 
 test.beforeEach(async ({ page }) => {
