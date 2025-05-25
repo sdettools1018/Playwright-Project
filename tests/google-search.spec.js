@@ -1,4 +1,5 @@
-// @ts-check
+// This file is part of a Playwright test suite that tests searching for "playwright" on Google.
+// It uses Playwright's testing framework to automate the browser interaction.
 import { test, expect } from '@playwright/test';
 
 test('search for playwright on google', async ({ page }) => {
